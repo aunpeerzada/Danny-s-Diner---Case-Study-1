@@ -1,5 +1,7 @@
--- This is the solution for 1st case study of the challenge
--- CREATING DATA SET
+
+-- CREATING DATA SET 
+https://8weeksqlchallenge.com/case-study-1/ (Follow the link to check Database)
+
 CREATE TABLE sales (
   customer_id VARCHAR(1),
   order_date DATE,
@@ -52,7 +54,7 @@ VALUES
  ('B', '2021-01-09');
 
 
-Solutions :
+
 
 Select * From dannys_diner.members;
 
